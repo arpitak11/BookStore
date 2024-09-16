@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"StoryBook",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 0.0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"comic",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 20.0,
+        "category": "Comedy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"SportsBook",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 50.0,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    },
+
+    {
+        "id":4,
+        "name":"StoryBook",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 0.0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    },
+
+    {
+        "id":5,
+        "name":"StoryBook",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 0.0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    },
+
+    {
+        "id":6,
+        "name":"StoryBook",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 0.0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    },
+
+    {
+        "id":7,
+        "name":"love-hate",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 35.0,
+        "category": "Romance",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    },
+
+    {
+        "id":8,
+        "name":"Horror",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 45.0,
+        "category": "Horror",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    },
+
+    {
+        "id":9,
+        "name":"loveBook",
+        "title":"lorem bhd hgcudywdn bcsye",
+        "price": 55.0,
+        "category": "Romance",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1724423771~exp=1724427371~hmac=c7444e7c0776315aaca0cdb1125f2c40c14b1c759fcc96f66284ec21d5c0ae4a&w=740"
+    }
+]
